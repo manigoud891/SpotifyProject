@@ -1,0 +1,9 @@
+{
+	"name": "SpotifyDataFactory1",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b377e24-e9d9-42c4-a7c4-0f39e5a1eac9",
+		"tenantId": "014c201d-0732-4790-b72d-e9673a9c7e72"
+	}
+}
